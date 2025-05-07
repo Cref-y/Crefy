@@ -24,7 +24,7 @@ export default function Header() {
   const menuItems = [
     { href: "#features", label: "Features" },
     { href: "https://crefy-pres.vercel.app/", label: "About Us", external: true },
-    { href: "https://crefy-kyc.vercel.app/", label: "KYC", external: true },
+    { href: "https://passports-eight.vercel.app/", label: "KYC", external: true },
     { href: "https://crefy-did.vercel.app/", label: "Credentials", external: true },
   ]
 

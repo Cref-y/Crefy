@@ -9,7 +9,7 @@ const features = [
     name: "Identity Verification (KYC)",
     description: "Secure and compliant identity verification solutions with seamless user experience.",
     icon: Shield,
-    link: "https://crefy-kyc.vercel.app/",
+    link: "https://passports-eight.vercel.app/",
   },
   {
     name: "Programmable Credentials",

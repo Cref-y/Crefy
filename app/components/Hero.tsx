@@ -49,7 +49,7 @@ export default function Hero() {
             <Button
               size="lg"
               className="w-full sm:w-auto"
-              onClick={() => window.open("https://crefy-kyc.vercel.app/", "_blank")}
+              onClick={() => window.open("https://passports-eight.vercel.app/", "_blank")}
             >
               Try KYC
             </Button>

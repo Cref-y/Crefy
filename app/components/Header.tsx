@@ -28,7 +28,7 @@ export default function Header() {
               About Us
             </Link>
             <Link
-              href="https://crefy-kyc.vercel.app/"
+              href="https://passports-eight.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-base font-medium text-muted-foreground hover:text-foreground transition-colors"
